@@ -1,5 +1,5 @@
 ---
-description: 자바 ORM 표준 JPA 프로그래밍 2장을 요약한 내용 입니다.
+description: 자바 ORM 표준 JPA 프로그래밍 2장을 요약
 ---
 
 # 2장 JPA 시작

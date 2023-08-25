@@ -1,11 +1,5 @@
----
-layout: reference
-title: 1장 JPA 소개
-date: '2020-03-10T00:00:00.000Z'
-categories: jpa
-summary: 자바 ORM 표준 JPA 프로그래밍 1장을 요약한 내용 입니다.
-navigation_weight: 1
-description: 자바 ORM 표준 JPA 프로그래밍 1장을 요약한 내용 입니다.
+
+description: 자바 ORM 표준 JPA 프로그래밍 1장을 요약
 ---
 
 # 1장 JPA 소개
