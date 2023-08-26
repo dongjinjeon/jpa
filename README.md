@@ -1,8 +1,11 @@
 ---
-description: 자바 ORM 표준 JPA 프로그래밍을 요약
+description: by Dongjin Jeon
+coverY: 0
 ---
 
 # JAVA ORM JPA
+
+
 
 <div>
 
@@ -10,6 +13,6 @@ description: 자바 ORM 표준 JPA 프로그래밍을 요약
 
  
 
-<figure><img src=".gitbook/assets/logo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/logo.png" alt="" width="170"><figcaption></figcaption></figure>
 
 </div>
